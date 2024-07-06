@@ -58,3 +58,10 @@ The position and form of the second verb in a German sentence vary based on the 
 - **Infinitive Constructions:** Infinitive at the end after certain verbs.
 
 Understanding these rules will help you correctly position and form the second verb in German sentences.
+
+
+**References:**
+- https://www.verbformen.com/conjugation/#Konjugation
+- https://easy-deutsch.com/german-verbs/german-modal-verbs/#t-1653507980362
+- https://preply.com/en/blog/german-verb-conjugation-rules/
+- https://www.thegermanprofessor.com/intro-german-verbs/
