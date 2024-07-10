@@ -65,3 +65,4 @@ Understanding these rules will help you correctly position and form the second v
 - https://easy-deutsch.com/german-verbs/german-modal-verbs/#t-1653507980362
 - https://preply.com/en/blog/german-verb-conjugation-rules/
 - https://www.thegermanprofessor.com/intro-german-verbs/
+- https://tandem.net/blog/german-verb-conjugation
