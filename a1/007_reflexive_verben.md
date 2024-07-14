@@ -1,7 +1,159 @@
 ### Reflexive Verbs
 
 #### 1. Use Cases
-Reflexive verbs are verbs where the subject and the object of the action are the same. They are often used to describe actions that one performs on oneself.
+Reflexive verbs are verbs where the subject and the object of the action are the same. i.e., subject performs the action on itself. They are often used to describe actions that one performs on oneself.
+
+### How to Identify Reflexive Verbs
+
+1. **Subject and Object are the Same:** The subject of the sentence is performing the action on itself.
+2. **Reflexive Pronouns:** Reflexive verbs use specific pronouns that refer back to the subject.
+
+### Reflexive Pronouns in German
+
+| Subject Pronoun | Reflexive Pronoun |
+|-----------------|-------------------|
+| ich             | mich              |
+| du              | dich              |
+| er/sie/es       | sich              |
+| wir             | uns               |
+| ihr             | euch              |
+| sie/Sie         | sich              |
+
+
+### General Rules for Sentence Making with Reflexive Verbs:
+
+1. **Reflexive Pronouns:** In both Hauptsatz and Nebensatz, the reflexive pronoun must agree with the subject of the sentence.
+2. **Hauptsatz Structure:** The reflexive pronoun follows the conjugated verb directly.
+3. **Nebensatz Structure:** The reflexive pronoun follows the subject, and the conjugated verb is placed at the end of the clause.
+4. **Word Order:** In Nebensatz, the reflexive pronoun and other sentence elements follow the standard subject-verb-object order before the final verb.
+
+### Reflexive Verbs in Hauptsatz and Nebensatz
+
+#### Rules for Reflexive Verbs in Hauptsatz:
+- Subject + Conjugated Verb + Reflexive Pronoun + Other Elements
+- The reflexive pronoun follows the conjugated verb directly.
+- The verb is in the second position in the sentence.
+  
+**Example:**
+- **Ich wasche mich.** (I wash myself.)
+- **Ich ärgere mich.** (I get angry.)
+
+#### Rules for Reflexive Verbs in Nebensatz:
+- Conjunction + Subject + Reflexive Pronoun + Other Elements + Conjugated Verb
+- The reflexive pronoun follows the subject in a Nebensatz.
+- The verb goes to the end of the sentence.
+
+**Example:**
+- **Ich weiß, dass ich mich wasche.** (I know that I wash myself.)
+- **Ich weiß, dass ich mich ärgere.** (I know that I get angry.)
+
+### Detailed Rules for Sentence Making
+
+1. **Hauptsatz (Main Clause):**
+   - Reflexive pronoun directly follows the conjugated verb.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + (Time/Place/Other Elements)
+   - **Example:** Ich erinnere mich an den Urlaub. (I remember the vacation.)
+
+2. **Nebensatz (Subordinate Clause):**
+   - Reflexive pronoun follows the subject, and the conjugated verb goes to the end.
+   - **Pattern:** Conjunction + Subject + Reflexive Pronoun + (Time/Place/Other Elements) + Conjugated Verb
+   - **Example:** Er weiß, dass ich mich an den Urlaub erinnere. (He knows that I remember the vacation.)
+
+3. **Modal Verbs:**
+   - The reflexive pronoun follows the subject, and the infinitive verb is at the end.
+   - **Pattern:** Subject + Modal Verb + Reflexive Pronoun + Infinitive Verb
+   - **Example:** Ich möchte mich erinnern. (I want to remember.)
+
+4. **Modal Verbs in Nebensatz:**
+   - Reflexive pronoun follows the subject, and the infinitive verb comes before the modal verb at the end.
+   - **Pattern:** Conjunction + Subject + Reflexive Pronoun + (Other Elements) + Infinitive Verb + Modal Verb
+   - **Example:** Er weiß, dass ich mich erinnern möchte. (He knows that I want to remember.)
+
+### Examples and Patterns
+
+1. **Basic Sentence**
+   - **English:** I wash myself.
+   - **German:** Ich wasche mich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+2. **Subordinate Clause**
+   - **English:** He knows that I wash myself.
+   - **German:** Er weiß, dass ich mich wasche.
+   - **Pattern:** Conjunction + Subject + Reflexive Pronoun + Other Elements + Conjugated Verb
+
+3. **Intermediate Example with Time**
+   - **English:** I wash myself every morning.
+   - **German:** Ich wasche mich jeden Morgen.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + Time Element
+
+4. **Intermediate Example with Place**
+   - **English:** I wash myself in the bathroom.
+   - **German:** Ich wasche mich im Badezimmer.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + Place Element
+
+5. **Complex Sentence with Modal Verb**
+   - **English:** I want to wash myself.
+   - **German:** Ich möchte mich waschen.
+   - **Pattern:** Subject + Modal Verb + Reflexive Pronoun + Infinitive Verb
+
+6. **Complex Subordinate Clause with Modal Verb**
+   - **English:** He knows that I want to wash myself.
+   - **German:** Er weiß, dass ich mich waschen möchte.
+   - **Pattern:** Conjunction + Subject + Reflexive Pronoun + Other Elements + Infinitive Verb + Modal Verb
+
+### More Examples
+
+#### Basic Reflexive Verbs
+
+1. **Sich freuen (to be happy):**
+   - **English:** I am happy.
+   - **German:** Ich freue mich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+2. **Sich setzen (to sit down):**
+   - **English:** She sits down.
+   - **German:** Sie setzt sich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+3. **Sich anziehen (to get dressed):**
+   - **English:** We get dressed.
+   - **German:** Wir ziehen uns an.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + Particle
+
+#### Intermediate Reflexive Verbs
+
+1. **Sich erinnern (to remember):**
+   - **English:** You remember.
+   - **German:** Du erinnerst dich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+2. **Sich ausruhen (to rest):**
+   - **English:** They rest.
+   - **German:** Sie ruhen sich aus.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + Particle
+
+3. **Sich entschuldigen (to apologize):**
+   - **English:** I apologize.
+   - **German:** Ich entschuldige mich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+#### Advanced Reflexive Verbs
+
+1. **Sich entscheiden (to decide):**
+   - **English:** He decides.
+   - **German:** Er entscheidet sich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
+2. **Sich vorbereiten (to prepare oneself):**
+   - **English:** We prepare ourselves.
+   - **German:** Wir bereiten uns vor.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun + Particle
+
+3. **Sich unterhalten (to converse):**
+   - **English:** They converse.
+   - **German:** Sie unterhalten sich.
+   - **Pattern:** Subject + Conjugated Verb + Reflexive Pronoun
+
 
 #### 2. Reflexive Verbs List
 
@@ -82,31 +234,6 @@ Here is a full list ofreflexive verbs in German:
 | Basic       | I decide.                  | Ich entscheide mich.                | Ich entschied mich.                       | Ich habe mich entschieden.                  | Nominative (ich), Akkusativ (mich) | Reflexive pronoun corresponds to the subject                  |
 | Intermediate| You decide.                | Du entscheidest dich.               | Du entschiedest dich.                     | Du hast dich entschieden.                   | Nominative (du), Akkusativ (dich) | Reflexive pronoun corresponds to the subject                  |
 | Advanced    | He decides.                | Er entscheidet sich.                | Er entschied sich.                        | Er hat sich entschieden.                    | Nominative (er), Akkusativ (sich) | Reflexive pronoun corresponds to the subject                  |
-
-### General Rules for Sentence Making with Reflexive Verbs:
-
-1. **Reflexive Pronouns:** In both Hauptsatz and Nebensatz, the reflexive pronoun must agree with the subject of the sentence.
-2. **Hauptsatz Structure:** The reflexive pronoun follows the conjugated verb directly.
-3. **Nebensatz Structure:** The reflexive pronoun follows the subject, and the conjugated verb is placed at the end of the clause.
-4. **Word Order:** In Nebensatz, the reflexive pronoun and other sentence elements follow the standard subject-verb-object order before the final verb.
-
-### Reflexive Verbs in Hauptsatz and Nebensatz
-
-#### Rules for Reflexive Verbs in Hauptsatz:
-- The reflexive pronoun follows the conjugated verb directly.
-- The verb is in the second position in the sentence.
-  
-**Example:**
-- **Ich wasche mich.** (I wash myself.)
-- **Ich ärgere mich.** (I get angry.)
-
-#### Rules for Reflexive Verbs in Nebensatz:
-- The reflexive pronoun follows the subject in a Nebensatz.
-- The verb goes to the end of the sentence.
-
-**Example:**
-- **Ich weiß, dass ich mich wasche.** (I know that I wash myself.)
-- **Ich weiß, dass ich mich ärgere.** (I know that I get angry.)
 
 ### Examples Table
 
