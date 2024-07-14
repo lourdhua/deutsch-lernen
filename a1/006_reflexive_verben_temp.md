@@ -1,23 +1,54 @@
-### Reflexive Verbs
+### Use of "Als" in Hauptsatz
 
 #### 1. Use Cases
-Reflexive verbs are verbs where the subject and the object of the action are the same. They are often used to describe actions that one performs on oneself.
+"Als" is used in the main clause to indicate a single event in the past that happened once.
 
 #### 2. Sentence Making Rules
-- **Reflexive pronoun**: The reflexive pronoun corresponds to the subject (e.g., mich, dich, sich, uns, euch, sich).
-- **Position**: The reflexive pronoun usually comes immediately after the conjugated verb.
+- "Als" introduces a subordinate clause, moving the verb to the end of that clause.
+- The verb remains in the second position in the main clause.
 
 #### 3. Sentence Objects
-- **Pronouns**: Reflexive pronouns change according to the subject.
-- **Adverbs, adjectives, prepositions**: Their use remains typical as in other sentences, not affected by reflexive verbs directly.
+- Pronouns, adverbs, adjectives, prepositions: Follow standard usage, but the verb position is influenced by "als".
 
 #### 4. Examples
-- **Ich wasche mich.** (I wash myself.)
-  - Pronoun: mich
-  - Reflexive verb: waschen
-- **Du erinnerst dich an das Gespräch.** (You remember the conversation.)
-  - Pronoun: dich
-  - Reflexive verb: erinnern
+- **Als ich ein Kind war, spielte ich draußen.** (When I was a child, I played outside.)
+- **Als er ankam, begann das Meeting.** (When he arrived, the meeting started.)
+
+### Indirect Question (Indirekte Frage)
+
+#### 1. Use Cases
+Indirect questions are used to report a question without directly quoting it.
+
+#### 2. Sentence Making Rules
+- The indirect question starts with a question word (wer, was, wann, wo, warum, etc.).
+- The verb moves to the end of the clause.
+
+#### 3. Sentence Objects
+- Pronouns, adverbs, adjectives, prepositions: Maintained as per usual, but verb placement is different.
+
+#### 4. Examples
+- **Ich weiß nicht, wann der Zug kommt.** (I don't know when the train is coming.)
+- **Kannst du mir sagen, wo das Restaurant ist?** (Can you tell me where the restaurant is?)
+
+### The Use of "Werden" in Futur I
+
+#### 1. Use Cases
+"Werden" is used in the Future I tense to indicate future actions or events.
+
+#### 2. Sentence Making Rules
+- Construction: werden + infinitive verb.
+- Word order: "Werden" is conjugated and placed in the second position, while the infinitive verb goes to the end of the sentence.
+
+#### 3. Sentence Objects
+- Pronouns, adverbs, adjectives, prepositions: Used as usual, with "werden" and the infinitive verb marking the future tense.
+
+#### 4. Examples
+- **Ich werde morgen nach Berlin fahren.** (I will travel to Berlin tomorrow.)
+- **Wir werden nächste Woche eine Party feiern.** (We will have a party next week.)
+
+This table format should help you understand and practice the usage of reflexive verbs, konjunktiv II, "als" in Hauptsatz, indirect questions, and "werden" in Futur I, along with the detailed rules and sentence formations.
+
+
 
 ### Konjunktiv II
 
