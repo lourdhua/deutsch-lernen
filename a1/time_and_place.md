@@ -2,38 +2,29 @@ Certainly! Let's delve into framing questions, statements, and answers with time
 
 ### 1. Examples in Tabular Format
 
-
 #### Object Cases:
 - **Akkusativ (Direct Object)**: answers "whom?" or "what?"
 - **Dativ (Indirect Object)**: answers "to whom?" or "for whom?"
 - **Genitiv (Possession)**: answers "whose?"
 
 #### Word Order Rules:
-1. **Main Clause**: Subject - Verb - Indirect Object - Direct Object - Time - Place
+1. **Main Clause**: Subject - Verb - Indirect Object - Direct Object - Time - Place (The place takes the form of akkusative or dative depending on the verb; if the verb indicates movement, then the place represent akkusative, if the verb relates to stillness/stay (no movement) then it reflects dative case)
    - Example: Ich (S) gebe (V) dem Mann (IO) das Buch (DO) morgen (T) im Park (P).
+   - The place in ab
 
-2. **W-Questions**: Question Word - Verb - Subject - Indirect Object - Direct Object - Time - Place
+2. **W-Questions**: Question Word - Verb - Subject - Indirect Object - Direct Object - Time - Place (The place takes the form of akkusative or dative depending on the verb; if the verb indicates movement, then the place represent akkusative, if the verb relates to stillness/stay (no movement) then it reflects dative case)
    - Example: Wann (QW) kommst (V) du (S) ins Büro (P)?
 
-3. **Yes/No Questions**: Verb - Subject - Indirect Object - Direct Object - Time - Place
+3. **Yes/No Questions**: Verb - Subject - Indirect Object - Direct Object - Time - Place (The place takes the form of akkusative or dative depending on the verb; if the verb indicates movement, then the place represent akkusative, if the verb relates to stillness/stay (no movement) then it reflects dative case)
    - Example: Gehst (V) du (S) morgen (T) in den Park (P)?
 
 ### 2. Prepositions, Pronouns, Adjectives/Adverbs for Time and Place
 
+- **Pronouns**: ich, du, er, sie, es, wir, ihr, sie
 - **Prepositions for Place**: in, an, auf, bei, zu, nach, aus
 - **Prepositions for Time**: um, am, im, seit, vor, nach, in, während
-- **Pronouns**: ich, du, er, sie, es, wir, ihr, sie
-- **Adjectives/Adverbs for Time**: jetzt, heute, morgen, gestern, immer, manchmal, oft
 - **Adjectives/Adverbs for Place**: hier, dort, überall, irgendwo, draußen, drinnen
-
-
-**Classifying Object Cases**:
-- **Akkusative (Direct Object)**: Used for the direct object of a sentence.
-  - Example: Ich sehe den Hund. (I see the dog.)
-- **Dative (Indirect Object)**: Used for the indirect object of a sentence.
-  - Example: Ich gebe dem Mann das Buch. (I give the man the book.)
-- **Genitive (Possession)**: Used to show possession.
-  - Example: Das ist das Buch des Lehrers. (That is the teacher's book.)
+- **Adjectives/Adverbs for Time**: jetzt, heute, morgen, gestern, immer, manchmal, oft
 
 ### 3. Rules for Framing Word Order
 
@@ -43,6 +34,8 @@ Certainly! Let's delve into framing questions, statements, and answers with time
 2. **Time and Place Positioning**:
    - **General Order**: Time expression + Place expression + Verb + Subject + Object.
    - Example: Morgen (Time) gehe ich (S) in die Schule (Place).
+   - Example: Wir (S) haben (V) gestern Abend (Time) einen Film (O) im Kino (Place) gesehen.
+   - Example: Morgen (Time) gehe (Verb) ich (Subject) ins Kino (Place).
 
 3. **W-Frage Structure**: W-Frage + Verb + Subject + Object.
    - Example: Wann (W-Frage) gehst (Verb) du (Subject) nach Hause (Object)?
@@ -51,13 +44,13 @@ Certainly! Let's delve into framing questions, statements, and answers with time
    - In main clauses, the verb is the second element.
    - In subordinate clauses, the verb goes to the end.
    - Example: Ich weiß, dass du nach Hause gehst. (I know that you are going home.)
+   - Example: Wir wissen, dass du ins Kino gehst. (We know that you are going to the cinema.)
 
 5. **Modal Verbs**:
    - Modal verb in the second position, the main verb at the end.
    - Example: Ich muss (Modal) nach Hause (Place) gehen (Main Verb).
 
-
-### 4. Explanations for Key Rules
+### 4. ins vs nach (Key Rules)
 
 1. **"ins Kino" vs. "nach Kino"**:
    - "ins" is a contraction of "in das" and is used for destinations with movement towards an enclosed space.
