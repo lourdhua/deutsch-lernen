@@ -231,7 +231,6 @@ Detailed breakdown of the sentence structures for Konjunktiv II verbs in both Ha
    - Nebensatz: Wenn ich Zeit gehabt hätte, wäre ich gekommen. (If I had had time, I would have come.)
 
 ### Extended Table with Mixed Examples
-
 | Complexity   | English Sentence                                      | German Sentence                                             | Cases Used                  | Justification/Rules Applied                          | Sentence Structure                                  | Past Tense                                           | Imperfect Tense                                      |
 |--------------|-------------------------------------------------------|-------------------------------------------------------------|-----------------------------|------------------------------------------------------|---------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | Basic        | I would go to the park.                               | Ich würde in den Park gehen.                                | Nominative, Accusative      | Subject (Nom.) + Verb (KII) + Object (Acc.)          | Main Clause: würde + Obj. + Verb (Infinitive)      | Ich wäre in den Park gegangen.                       | Ich ging in den Park.                                |
