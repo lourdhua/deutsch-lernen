@@ -5,25 +5,26 @@ Here is a list of commonly used Konjunktiv II verbs in German, ordered from most
 | Verb | Subjunctive form | Example |
 |------------|------------------|----------------|
 | würde (would) | Used to form the conditional mood with other verbs; always used with "gern" | Ich würde das tun. (I would do that.) |
-| hätte (had/would have) | Subjunctive -> "haben" (to have). | Ich hätte das gemacht. (I would have done that.) |
-| wäre (were/would be/had been) | Subjunctive -> "sein" (to be). | Ich wäre dort gewesen. (I would have been there.) | 
-| könnte (could) | Subjunctive -> "können" (can). | Ich könnte das tun. (I could do that.) |
-| sollte (should) | Subjunctive -> "sollen" (should). | Ich sollte das machen. (I should do that.) |
-| müsste (must/had to) | Subjunctive -> "müssen" (must). | Ich müsste das tun. (I would have to do that.) | 
-| dürfte (might/may) | Subjunctive -> "dürfen" (may). | Ich dürfte das tun. (I might do that.) |
-| wollte (would want) | Subjunctive -> "wollen" (to want). | Ich wollte das tun. (I would want to do that.) |
-| möchte (would like) | Subjunctive -> "mögen" (to like). | Ich möchte das tun. (I would like to do that.) |
-| käme (would come) | Subjunctive -> "kommen" (to come). | Ich käme, wenn ich könnte. (I would come if I could.) |
-| ginge (would go) | Subjunctive -> "gehen" (to go). | Ich ginge, wenn ich Zeit hätte. (I would go if I had time.) |
-| wüsste (would know) | Subjunctive -> "wissen" (to know). | Ich wüsste das. (I would know that.) |
-| bliebe (would stay) | Subjunctive -> "bleiben" (to stay). | Ich bliebe hier. (I would stay here.) |
-| fände (would find) | Subjunctive -> "finden" (to find). | Ich fände das gut. (I would find that good.) |
-| nähme (would take) | Subjunctive -> "nehmen" (to take). | Ich nähme das. (I would take that.) |
-| gäbe (would give) | Subjunctive -> "geben" (to give). | Ich gäbe das. (I would give that.) |
-| sähe (would see) | Subjunctive -> "sehen" (to see). | Ich sähe das. (I would see that.) |
-| träte (would step) | Subjunctive -> "treten" (to step). | Ich träte zurück. (I would step back.) |
-| brächte (would bring) | Subjunctive -> "bringen" (to bring). | Ich brächte das mit. (I would bring that with me.) |
-| löge (would lie) | Subjunctive -> "lügen" (to lie). | Ich löge nicht. (I would not lie.) |
+| hätte (had/would have) | "haben" (to have). | Ich hätte das gemacht. (I would have done that.) |
+| wäre (were/would be/had been) | "sein" (to be). | Ich wäre dort gewesen. (I would have been there.) | 
+| könnte (could) | "können" (can). | Ich könnte das tun. (I could do that.) |
+| sollte (should) | "sollen" (should). | Ich sollte das machen. (I should do that.) |
+| müsste (must/had to) | "müssen" (must). | Ich müsste das tun. (I would have to do that.) | 
+| dürfte (might/may) | "dürfen" (may). | Ich dürfte das tun. (I might do that.) |
+| wollte (would want) | "wollen" (to want). | Ich wollte das tun. (I would want to do that.) |
+| möchte (would like) | "mögen" (to like). | Ich möchte das tun. (I would like to do that.) |
+| käme (would come) | "kommen" (to come). | Ich käme, wenn ich könnte. (I would come if I could.) |
+| ginge (would go) | "gehen" (to go). | Ich ginge, wenn ich Zeit hätte. (I would go if I had time.) |
+| wüsste (would know) | "wissen" (to know). | Ich wüsste das. (I would know that.) |
+| bliebe (would stay) | "bleiben" (to stay). | Ich bliebe hier. (I would stay here.) |
+| fände (would find) | "finden" (to find). | Ich fände das gut. (I would find that good.) |
+| nähme (would take) | "nehmen" (to take). | Ich nähme das. (I would take that.) |
+| gäbe (would give) | "geben" (to give). | Ich gäbe das. (I would give that.) |
+| sähe (would see) | "sehen" (to see). | Ich sähe das. (I would see that.) |
+| träte (would step) | "treten" (to step). | Ich träte zurück. (I would step back.) |
+| brächte (would bring) | "bringen" (to bring). | Ich brächte das mit. (I would bring that with me.) |
+| löge (would lie) | "lügen" (to lie). | Ich löge nicht. (I would not lie.) |
+
 
 Detailed breakdown of the sentence structures for Konjunktiv II verbs in both Hauptsatz (main clause) and Nebensatz (subordinate clause). The table includes sentence elements like subject, verb, object, adjective, adverb, pronoun, and preposition for the first ten Konjunktiv II verbs. The table also covers present, past, and imperfect tenses.
 
