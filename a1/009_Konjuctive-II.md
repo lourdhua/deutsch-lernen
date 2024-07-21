@@ -4,7 +4,7 @@ These verbs are used to express hypothetical or unreal situations and wishes. Th
 Here is a list of commonly used Konjunktiv II verbs in German, ordered from most to least frequently used:
 | Verb | Subjunctive form | Example |
 |------------|------------------|----------------|
-| würde (would) | "würden (would)"; always used with "gern/gerne" | Ich würde das tun. (I would do that.) |
+| würde (would) | "würden (will)"; always used with "gern/gerne" | Ich würde das tun. (I would do that.) |
 | hätte (had/would have) | "haben" (to have). | Ich hätte das gemacht. (I would have done that.) |
 | wäre (were/would be/had been) | "sein" (to be). | Ich wäre dort gewesen. (I would have been there.) | 
 | könnte (could) | "können" (can). | Ich könnte das tun. (I could do that.) |
