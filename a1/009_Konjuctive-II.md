@@ -2,88 +2,28 @@
 These verbs are used to express hypothetical or unreal situations and wishes. The auxiliary verb "würde" is the most versatile and commonly used, followed by the past tense forms of "haben" and "sein" (hätte, wäre), which are crucial for forming the past conditional tense. The modal verbs (könnte, sollte, müsste, dürfte, wollte) are also frequently used in conditional sentences.
 
 Here is a list of commonly used Konjunktiv II verbs in German, ordered from most to least frequently used:
-
-1. **würde (would)**
-   - Used to form the conditional mood with other verbs.
-   - always used with "gern"
-   - Example: Ich würde das tun. (I would do that.)
-
-2. **hätte (had/would have)**
-   - Subjunctive form of "haben" (to have).
-   - Example: Ich hätte das gemacht. (I would have done that.)
-
-3. **wäre (were/would be/had been)**
-   - Subjunctive form of "sein" (to be).
-   - Example: Ich wäre dort gewesen. (I would have been there.)
-
-4. **könnte (could)**
-   - Subjunctive form of "können" (can).
-   - Example: Ich könnte das tun. (I could do that.)
-
-5. **sollte (should)**
-   - Subjunctive form of "sollen" (should).
-   - Example: Ich sollte das machen. (I should do that.)
-
-6. **müsste (must/had to)**
-   - Subjunctive form of "müssen" (must).
-   - Example: Ich müsste das tun. (I would have to do that.)
-
-7. **dürfte (might/may)**
-   - Subjunctive form of "dürfen" (may).
-   - Example: Ich dürfte das tun. (I might do that.)
-
-8. **wollte (would want)**
-   - Subjunctive form of "wollen" (to want).
-   - Example: Ich wollte das tun. (I would want to do that.)
-
-9. **möchte (would like)**
-   - Subjunctive form of "mögen" (to like).
-   - Example: Ich möchte das tun. (I would like to do that.)
-
-10. **käme (would come)**
-    - Subjunctive form of "kommen" (to come).
-    - Example: Ich käme, wenn ich könnte. (I would come if I could.)
-
-11. **ginge (would go)**
-    - Subjunctive form of "gehen" (to go).
-    - Example: Ich ginge, wenn ich Zeit hätte. (I would go if I had time.)
-
-12. **wüsste (would know)**
-    - Subjunctive form of "wissen" (to know).
-    - Example: Ich wüsste das. (I would know that.)
-
-13. **bliebe (would stay)**
-    - Subjunctive form of "bleiben" (to stay).
-    - Example: Ich bliebe hier. (I would stay here.)
-
-14. **fände (would find)**
-    - Subjunctive form of "finden" (to find).
-    - Example: Ich fände das gut. (I would find that good.)
-
-15. **nähme (would take)**
-    - Subjunctive form of "nehmen" (to take).
-    - Example: Ich nähme das. (I would take that.)
-
-16. **gäbe (would give)**
-    - Subjunctive form of "geben" (to give).
-    - Example: Ich gäbe das. (I would give that.)
-
-17. **sähe (would see)**
-    - Subjunctive form of "sehen" (to see).
-    - Example: Ich sähe das. (I would see that.)
-
-18. **träte (would step)**
-    - Subjunctive form of "treten" (to step).
-    - Example: Ich träte zurück. (I would step back.)
-
-19. **brächte (would bring)**
-    - Subjunctive form of "bringen" (to bring).
-    - Example: Ich brächte das mit. (I would bring that with me.)
-
-20. **löge (would lie)**
-    - Subjunctive form of "lügen" (to lie).
-    - Example: Ich löge nicht. (I would not lie.)
-
+| Verb | Subjunctive form | Example |
+|------------|------------------|----------------|
+| würde (would) | Used to form the conditional mood with other verbs; always used with "gern" | Ich würde das tun. (I would do that.) |
+| hätte (had/would have) | Subjunctive -> "haben" (to have). | Ich hätte das gemacht. (I would have done that.) |
+| wäre (were/would be/had been) | Subjunctive -> "sein" (to be). | Ich wäre dort gewesen. (I would have been there.) | 
+| könnte (could) | Subjunctive -> "können" (can). | Ich könnte das tun. (I could do that.) |
+| sollte (should) | Subjunctive -> "sollen" (should). | Ich sollte das machen. (I should do that.) |
+| müsste (must/had to) | Subjunctive -> "müssen" (must). | Ich müsste das tun. (I would have to do that.) | 
+| dürfte (might/may) | Subjunctive -> "dürfen" (may). | Ich dürfte das tun. (I might do that.) |
+| wollte (would want) | Subjunctive -> "wollen" (to want). | Ich wollte das tun. (I would want to do that.) |
+| möchte (would like) | Subjunctive -> "mögen" (to like). | Ich möchte das tun. (I would like to do that.) |
+| käme (would come) | Subjunctive -> "kommen" (to come). | Ich käme, wenn ich könnte. (I would come if I could.) |
+| ginge (would go) | Subjunctive -> "gehen" (to go). | Ich ginge, wenn ich Zeit hätte. (I would go if I had time.) |
+| wüsste (would know) | Subjunctive -> "wissen" (to know). | Ich wüsste das. (I would know that.) |
+| bliebe (would stay) | Subjunctive -> "bleiben" (to stay). | Ich bliebe hier. (I would stay here.) |
+| fände (would find) | Subjunctive -> "finden" (to find). | Ich fände das gut. (I would find that good.) |
+| nähme (would take) | Subjunctive -> "nehmen" (to take). | Ich nähme das. (I would take that.) |
+| gäbe (would give) | Subjunctive -> "geben" (to give). | Ich gäbe das. (I would give that.) |
+| sähe (would see) | Subjunctive -> "sehen" (to see). | Ich sähe das. (I would see that.) |
+| träte (would step) | Subjunctive -> "treten" (to step). | Ich träte zurück. (I would step back.) |
+| brächte (would bring) | Subjunctive -> "bringen" (to bring). | Ich brächte das mit. (I would bring that with me.) |
+| löge (would lie) | Subjunctive -> "lügen" (to lie). | Ich löge nicht. (I would not lie.) |
 
 Detailed breakdown of the sentence structures for Konjunktiv II verbs in both Hauptsatz (main clause) and Nebensatz (subordinate clause). The table includes sentence elements like subject, verb, object, adjective, adverb, pronoun, and preposition for the first ten Konjunktiv II verbs. The table also covers present, past, and imperfect tenses.
 
@@ -344,3 +284,51 @@ Here is a table with examples for each case and complexity level.
 - **Imperfect**: Conjunction + Subject + Object + Adjective/Adverb + würde + Infinitive Verb
 
 These guidelines and examples should help you understand the use of "gern/gerne," past participles, and adjective endings in various contexts, as well as forming sentences with Konjunktiv II in both main and subordinate clauses.
+
+Sure, here are 40 more examples, ensuring all elements are mentioned:
+
+| Complexity | English Sentence | German Present | Hauptsatz Structure (Present) | English Past | German Past | Hauptsatz Structure (Past) | English Imperfect | German Imperfect | Hauptsatz Structure (Imperfect) | Accusative/Dative | Comments |
+|------------|------------------|----------------|------------------------------|--------------|-------------|---------------------------|-------------------|------------------|------------------------------|------------------|----------|
+| Basic | I would go to the doctor. | Ich würde zum Arzt gehen. | S + würde (V-KII) + Prep + O (Dat) + InfV | I had gone to the doctor. | Ich wäre zum Arzt gegangen. | S + wäre (V-KII) + Prep + O (Dat) + Past Part. | I would have gone to the doctor. | Ich würde zum Arzt gegangen sein. | S + würde (V-KII) + Prep + O (Dat) + Past Part. + sein | Dative | "zum" (zu dem) indicates movement towards a specific place, taking Dativ |
+| Intermediate | We would have visited the museum if it had been open. | Wir hätten das Museum besucht, wenn es geöffnet gewesen wäre. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + Adj + gewesen wäre (V-KII) | We had visited the museum if it had been open. | Wir hätten das Museum besucht, wenn es geöffnet gewesen wäre. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + Adj + gewesen wäre (V-KII) | We would have visited the museum if it had been open. | Wir hätten das Museum besucht gehabt, wenn es geöffnet gewesen wäre. | S + hätten (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + Adj + gewesen wäre (V-KII) | Accusative | "das Museum" as direct object in Accusative |
+| Advanced | She would have eaten the cake if she had been hungry. | Sie hätte den Kuchen gegessen, wenn sie hungrig gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adj + gewesen wäre (V-KII) | She had eaten the cake if she had been hungry. | Sie hätte den Kuchen gegessen, wenn sie hungrig gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adj + gewesen wäre (V-KII) | She would have eaten the cake if she had been hungry. | Sie hätte den Kuchen gegessen gehabt, wenn sie hungrig gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + Adj + gewesen wäre (V-KII) | Accusative | "den Kuchen" as direct object in Accusative |
+| Basic | He would read the book. | Er würde das Buch lesen. | S + würde (V-KII) + DO (Acc) + InfV | He had read the book. | Er hätte das Buch gelesen. | S + hätte (V-KII) + DO (Acc) + Past Part. | He would have read the book. | Er würde das Buch gelesen haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "das Buch" as direct object in Accusative |
+| Intermediate | You (plural) would have gone to the park if it had not rained. | Ihr wäret zum Park gegangen, wenn es nicht geregnet hätte. | S + wäret (V-KII) + Prep + O (Dat) + Past Part., Conj + S + Adv + geregnet hätte (V-KII) | You had gone to the park if it had not rained. | Ihr wäret zum Park gegangen, wenn es nicht geregnet hätte. | S + wäret (V-KII) + Prep + O (Dat) + Past Part., Conj + S + Adv + geregnet hätte (V-KII) | You would have gone to the park if it had not rained. | Ihr wäret zum Park gegangen gewesen, wenn es nicht geregnet hätte. | S + wäret (V-KII) + Prep + O (Dat) + Past Part. + gewesen, Conj + S + Adv + geregnet hätte (V-KII) | Dative | "zum" (zu dem) indicates movement towards a specific place, taking Dativ |
+| Basic | They would take a walk. | Sie würden einen Spaziergang machen. | S + würden (V-KII) + DO (Acc) + InfV | They had taken a walk. | Sie hätten einen Spaziergang gemacht. | S + hätten (V-KII) + DO (Acc) + Past Part. | They would have taken a walk. | Sie würden einen Spaziergang gemacht haben. | S + würden (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "einen Spaziergang" as direct object in Accusative |
+| Advanced | We would have stayed at home if it had snowed. | Wir wären zu Hause geblieben, wenn es geschneit hätte. | S + wären (V-KII) + Prep + O (Dat) + Past Part., Conj + S + Past Part. + hätte (V-KII) | We had stayed at home if it had snowed. | Wir wären zu Hause geblieben, wenn es geschneit hätte. | S + wären (V-KII) + Prep + O (Dat) + Past Part., Conj + S + Past Part. + hätte (V-KII) | We would have stayed at home if it had snowed. | Wir wären zu Hause geblieben gewesen, wenn es geschneit hätte. | S + wären (V-KII) + Prep + O (Dat) + Past Part. + gewesen, Conj + S + Past Part. + hätte (V-KII) | Dative | "zu Hause" indicates staying at home, taking Dativ |
+| Intermediate | You (singular) would have helped your friend if he had asked. | Du hättest deinem Freund geholfen, wenn er gefragt hätte. | S + hättest (V-KII) + IO (Dat) + Past Part., Conj + S + Past Part. + hätte (V-KII) | You had helped your friend if he had asked. | Du hättest deinem Freund geholfen, wenn er gefragt hätte. | S + hättest (V-KII) + IO (Dat) + Past Part., Conj + S + Past Part. + hätte (V-KII) | You would have helped your friend if he had asked. | Du hättest deinem Freund geholfen gehabt, wenn er gefragt hätte. | S + hättest (V-KII) + IO (Dat) + Past Part. + gehabt, Conj + S + Past Part. + hätte (V-KII) | Dative | "deinem Freund" as indirect object in Dative |
+| Basic | She would write a letter. | Sie würde einen Brief schreiben. | S + würde (V-KII) + DO (Acc) + InfV | She had written a letter. | Sie hätte einen Brief geschrieben. | S + hätte (V-KII) + DO (Acc) + Past Part. | She would have written a letter. | Sie würde einen Brief geschrieben haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "einen Brief" as direct object in Accusative |
+| Intermediate | They would have cleaned the house if they had had time. | Sie hätten das Haus geputzt, wenn sie Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They had cleaned the house if they had had time. | Sie hätten das Haus geputzt, wenn sie Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They would have cleaned the house if they had had time. | Sie hätten das Haus geputzt gehabt, wenn sie Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hätten (V-KII) | Accusative | "das Haus" as direct object in Accusative |
+| Basic | We would make dinner. | Wir würden Abendessen machen. | S + würden (V-KII) + DO (Acc) + InfV | We had made dinner. | Wir hätten Abendessen gemacht. | S + hätten (V-KII) + DO (Acc) + Past Part. | We would have made dinner. | Wir würden Abendessen gemacht haben. | S + würden (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Abendessen" as direct object in Accusative |
+| Intermediate | He would have read the newspaper if he had woken up early. | Er hätte die Zeitung gelesen, wenn er früh aufgewacht wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adv + aufgewacht wäre (V-KII) | He had read the newspaper if he had woken up early. | Er hätte die Zeitung gelesen, wenn er früh aufgewacht wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adv + aufgewacht wäre (V-KII) | He would have read the newspaper if he had woken up early. | Er hätte die Zeitung gelesen gehabt, wenn er früh aufgewacht wäre. | S + hätte (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + Adv + aufgewacht wäre (V-KII) | Accusative | "die Zeitung" as direct object in Accusative |
+| Basic | You (plural) would call your parents. | Ihr würdet eure Eltern anrufen. | S + würdet (V-KII) + DO (Acc) + InfV | You had called your parents. | Ihr hättet eure Eltern angerufen. | S + hättet (V-KII) + DO (Acc) + Past Part. | You would have called your parents. | Ihr würdet eure Eltern angerufen haben. | S + würdet (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "eure Eltern" as direct object in Accusative |
+| Intermediate | They would have driven to the beach if they had had a car. | Sie wären zum Strand gefahren, wenn sie ein Auto gehabt hätten. | S + wären (V-KII) + Prep + O (Dat) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They had driven to the beach if they had had a car. | Sie wären zum Strand gefahren, wenn sie ein Auto gehabt hätten. | S + wären (V-KII) + Prep + O (Dat) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They would have driven to the beach if they had had a car. | Sie wären zum Strand gefahren gewesen, wenn sie ein Auto gehabt hätten. | S + wären (V-KII) + Prep + O (Dat) + Past Part. + gewesen, Conj + S + O (Acc) + gehabt hätten (V-KII) | Dative | "zum" (zu dem) indicates movement towards a specific place, taking Dativ |
+| Basic | She would cook breakfast. | Sie würde Frühstück kochen. | S + würde (V-KII) + DO (Acc) + InfV | She had cooked breakfast. | Sie hätte Frühstück gekocht. | S + hätte (V-KII) + DO (Acc) + Past Part. | She would have cooked breakfast. | Sie würde Frühstück gekocht haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Frühstück" as direct object in Accusative |
+| Intermediate | We would have watched the movie if we had had more time. | Wir hätten den Film gesehen, wenn wir mehr Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We had watched the movie if we had had more time. | Wir hätten den Film gesehen, wenn wir mehr Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We would have watched the movie if we had had more time. | Wir hätten den Film gesehen gehabt, wenn wir mehr Zeit gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hätten (V-KII) | Accusative | "den Film" as direct object in Accusative |
+| Basic | I would write an email. | Ich würde eine E-Mail schreiben. | S + würde (V-KII) + DO (Acc) + InfV | I had written an email. | Ich hätte eine E-Mail geschrieben. | S + hätte (V-KII) + DO (Acc) + Past Part. | I would have written an email. | Ich würde eine E-Mail geschrieben haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "eine E-Mail" as direct object in Accusative |
+| Intermediate | She would have cleaned the kitchen if she had not been tired. | Sie hätte die Küche geputzt, wenn sie nicht müde gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adv + gewesen wäre (V-KII) | She had cleaned the kitchen if she had not been tired. | Sie hätte die Küche geputzt, wenn sie nicht müde gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + Adv + gewesen wäre (V-KII) | She would have cleaned the kitchen if she had not been tired. | Sie hätte die Küche geputzt gehabt, wenn sie nicht müde gewesen wäre. | S + hätte (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + Adv + gewesen wäre (V-KII) | Accusative | "die Küche" as direct object in Accusative |
+| Basic | We would buy groceries. | Wir würden Lebensmittel kaufen. | S + würden (V-KII) + DO (Acc) + InfV | We had bought groceries. | Wir hätten Lebensmittel gekauft. | S + hätten (V-KII) + DO (Acc) + Past Part. | We would have bought groceries. | Wir würden Lebensmittel gekauft haben. | S + würden (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Lebensmittel" as direct object in Accusative |
+| Intermediate | You (singular) would have visited your grandmother if you had had time. | Du hättest deine Großmutter besucht, wenn du Zeit gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You had visited your grandmother if you had had time. | Du hättest deine Großmutter besucht, wenn du Zeit gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You would have visited your grandmother if you had had time. | Du hättest deine Großmutter besucht gehabt, wenn du Zeit gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hättest (V-KII) | Accusative | "deine Großmutter" as direct object in Accusative |
+| Basic | He would wash the car. | Er würde das Auto waschen. | S + würde (V-KII) + DO (Acc) + InfV | He had washed the car. | Er hätte das Auto gewaschen. | S + hätte (V-KII) + DO (Acc) + Past Part. | He would have washed the car. | Er würde das Auto gewaschen haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "das Auto" as direct object in Accusative |
+| Intermediate | We would have gone to the theater if we had had tickets. | Wir wären ins Theater gegangen, wenn wir Karten gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We had gone to the theater if we had had tickets. | Wir wären ins Theater gegangen, wenn wir Karten gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We would have gone to the theater if we had had tickets. | Wir wären ins Theater gegangen gewesen, wenn wir Karten gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Past Part. + gewesen, Conj + S + O (Acc) + gehabt hätten (V-KII) | Accusative | "ins Theater" indicates movement towards a place, taking Akkusativ |
+| Basic | They would drink coffee. | Sie würden Kaffee trinken. | S + würden (V-KII) + DO (Acc) + InfV | They had drunk coffee. | Sie hätten Kaffee getrunken. | S + hätten (V-KII) + DO (Acc) + Past Part. | They would have drunk coffee. | Sie würden Kaffee getrunken haben. | S + würden (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Kaffee" as direct object in Accusative |
+| Intermediate | You (plural) would have written a book if you had had more time. | Ihr hättet ein Buch geschrieben, wenn ihr mehr Zeit gehabt hättet. | S + hättet (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättet (V-KII) | You had written a book if you had had more time. | Ihr hättet ein Buch geschrieben, wenn ihr mehr Zeit gehabt hättet. | S + hättet (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättet (V-KII) | You would have written a book if you had had more time. | Ihr hättet ein Buch geschrieben gehabt, wenn ihr mehr Zeit gehabt hättet. | S + hättet (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hättet (V-KII) | Accusative | "ein Buch" as direct object in Accusative |
+| Basic | She would drink tea. | Sie würde Tee trinken. | S + würde (V-KII) + DO (Acc) + InfV | She had drunk tea. | Sie hätte Tee getrunken. | S + hätte (V-KII) + DO (Acc) + Past Part. | She would have drunk tea. | Sie würde Tee getrunken haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Tee" as direct object in Accusative |
+| Intermediate | He would have traveled to Paris if he had had enough money. | Er wäre nach Paris gereist, wenn er genug Geld gehabt hätte. | S + wäre (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He had traveled to Paris if he had had enough money. | Er wäre nach Paris gereist, wenn er genug Geld gehabt hätte. | S + wäre (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He would have traveled to Paris if he had had enough money. | Er wäre nach Paris gereist gewesen, wenn er genug Geld gehabt hätte. | S + wäre (V-KII) + Prep + O (Acc) + Past Part. + gewesen, Conj + S + O (Acc) + gehabt hätte (V-KII) | Accusative | "nach Paris" indicates movement towards a place, taking Akkusativ |
+| Basic | We would read a book. | Wir würden ein Buch lesen. | S + würden (V-KII) + DO (Acc) + InfV | We had read a book. | Wir hätten ein Buch gelesen. | S + hätten (V-KII) + DO (Acc) + Past Part. | We would have read a book. | Wir würden ein Buch gelesen haben. | S + würden (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "ein Buch" as direct object in Accusative |
+| Intermediate | You (singular) would have cooked dinner if you had had more ingredients. | Du hättest das Abendessen gekocht, wenn du mehr Zutaten gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You had cooked dinner if you had had more ingredients. | Du hättest das Abendessen gekocht, wenn du mehr Zutaten gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You would have cooked dinner if you had had more ingredients. | Du hättest das Abendessen gekocht gehabt, wenn du mehr Zutaten gehabt hättest. | S + hättest (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hättest (V-KII) | Accusative | "das Abendessen" as direct object in Accusative |
+| Basic | He would visit his friend. | Er würde seinen Freund besuchen. | S + würde (V-KII) + DO (Acc) + InfV | He had visited his friend. | Er hätte seinen Freund besucht. | S + hätte (V-KII) + DO (Acc) + Past Part. | He would have visited his friend. | Er würde seinen Freund besucht haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "seinen Freund" as direct object in Accusative |
+| Intermediate | We would have bought a new car if we had had more money. | Wir hätten ein neues Auto gekauft, wenn wir mehr Geld gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Adj + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We had bought a new car if we had had more money. | Wir hätten ein neues Auto gekauft, wenn wir mehr Geld gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Adj + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | We would have bought a new car if we had had more money. | Wir hätten ein neues Auto gekauft gehabt, wenn wir mehr Geld gehabt hätten. | S + hätten (V-KII) + DO (Acc) + Adj + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hätten (V-KII) | Accusative | "ein neues Auto" as direct object in Accusative |
+| Basic | They would watch TV. | Sie würden fernsehen. | S + würden (V-KII) + InfV | They had watched TV. | Sie hätten ferngesehen. | S + hätten (V-KII) + Past Part. | They would have watched TV. | Sie würden ferngesehen haben. | S + würden (V-KII) + Past Part. + haben | Accusative | "fernsehen" as direct object in Accusative |
+| Intermediate | You (plural) would have traveled to Italy if you had had enough time. | Ihr wäret nach Italien gereist, wenn ihr genug Zeit gehabt hättet. | S + wäret (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättet (V-KII) | You had traveled to Italy if you had had enough time. | Ihr wäret nach Italien gereist, wenn ihr genug Zeit gehabt hättet. | S + wäret (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättet (V-KII) | You would have traveled to Italy if you had had enough time. | Ihr wäret nach Italien gereist gewesen, wenn ihr genug Zeit gehabt hättet. | S + wäret (V-KII) + Prep + O (Acc) + Past Part. + gewesen, Conj + S + O (Acc) + gehabt hättet (V-KII) | Accusative | "nach Italien" indicates movement towards a place, taking Akkusativ |
+| Basic | She would drive to work. | Sie würde zur Arbeit fahren. | S + würde (V-KII) + Prep + O (Dat) + InfV | She had driven to work. | Sie wäre zur Arbeit gefahren. | S + wäre (V-KII) + Prep + O (Dat) + Past Part. | She would have driven to work. | Sie würde zur Arbeit gefahren sein. | S + würde (V-KII) + Prep + O (Dat) + Past Part. + sein | Dative | "zur" (zu der) indicates movement towards a specific place, taking Dativ |
+| Intermediate | He would have visited his uncle if he had had more time. | Er hätte seinen Onkel besucht, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He had visited his uncle if he had had more time. | Er hätte seinen Onkel besucht, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He would have visited his uncle if he had had more time. | Er hätte seinen Onkel besucht gehabt, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hätte (V-KII) | Accusative | "seinen Onkel" as direct object in Accusative |
+| Basic | We would swim in the lake. | Wir würden im See schwimmen. | S + würden (V-KII) + Prep + O (Dat) + InfV | We had swum in the lake. | Wir wären im See geschwommen. | S + wären (V-KII) + Prep + O (Dat) + Past Part. | We would have swum in the lake. | Wir würden im See geschwommen sein. | S + würden (V-KII) + Prep + O (Dat) + Past Part. + sein | Dative | "im" (in dem) indicates location within a place, taking Dativ |
+| Intermediate | You (singular) would have studied for the exam if you had had more time. | Du hättest für die Prüfung gelernt, wenn du mehr Zeit gehabt hättest. | S + hättest (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You had studied for the exam if you had had more time. | Du hättest für die Prüfung gelernt, wenn du mehr Zeit gehabt hättest. | S + hättest (V-KII) + Prep + O (Acc) + Past Part., Conj + S + O (Acc) + gehabt hättest (V-KII) | You would have studied for the exam if you had had more time. | Du hättest für die Prüfung gelernt gehabt, wenn du mehr Zeit gehabt hättest. | S + hättest (V-KII) + Prep + O (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hättest (V-KII) | Accusative | "für die Prüfung" as direct object in Accusative |
+| Basic | He would call his brother. | Er würde seinen Bruder anrufen. | S + würde (V-KII) + DO (Acc) + InfV | He had called his brother. | Er hätte seinen Bruder angerufen. | S + hätte (V-KII) + DO (Acc) + Past Part. | He would have called his brother. | Er würde seinen Bruder angerufen haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "seinen Bruder" as direct object in Accusative |
+| Intermediate | They would have moved to a new apartment if they had had more money. | Sie wären in eine neue Wohnung gezogen, wenn sie mehr Geld gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Adj + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They had moved to a new apartment if they had had more money. | Sie wären in eine neue Wohnung gezogen, wenn sie mehr Geld gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Adj + Past Part., Conj + S + O (Acc) + gehabt hätten (V-KII) | They would have moved to a new apartment if they had had more money. | Sie wären in eine neue Wohnung gezogen gewesen, wenn sie mehr Geld gehabt hätten. | S + wären (V-KII) + Prep + O (Acc) + Adj + Past Part. + gewesen, Conj + S + O (Acc) + gehabt hätten (V-KII) | Accusative | "in eine neue Wohnung" indicates movement towards a place, taking Akkusativ |
+| Basic | She would read a magazine. | Sie würde eine Zeitschrift lesen. | S + würde (V-KII) + DO (Acc) + InfV | She had read a magazine. | Sie hätte eine Zeitschrift gelesen. | S + hätte (V-KII) + DO (Acc) + Past Part. | She would have read a magazine. | Sie würde eine Zeitschrift gelesen haben. | S + würde (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "eine Zeitschrift" as direct object in Accusative |
+| Intermediate | He would have written a letter if he had had more time. | Er hätte einen Brief geschrieben, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He had written a letter if he had had more time. | Er hätte einen Brief geschrieben, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part., Conj + S + O (Acc) + gehabt hätte (V-KII) | He would have written a letter if he had had more time. | Er hätte einen Brief geschrieben gehabt, wenn er mehr Zeit gehabt hätte. | S + hätte (V-KII) + DO (Acc) + Past Part. + gehabt, Conj + S + O (Acc) + gehabt hätte (V-KII) | Accusative | "einen Brief" as direct object in Accusative |
+| Basic | You (singular) would cook dinner. | Du würdest Abendessen kochen. | S + würdest (V-KII) + DO (Acc) + InfV | You had cooked dinner. | Du hättest Abendessen gekocht. | S + hättest (V-KII) + DO (Acc) + Past Part. | You would have cooked dinner. | Du würdest Abendessen gekocht haben. | S + würdest (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Abendessen" as direct object in Accusative |
+
+The table now includes translations, sentence structure breakdowns, example sentences for past indicative and past perfect subjunctive, and notes on the usage of accusative or dative cases where appropriate.
