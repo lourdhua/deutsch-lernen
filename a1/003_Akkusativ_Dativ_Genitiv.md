@@ -62,7 +62,17 @@
 |                  | Descriptions (genitive attributes)                  | Die Farbe des Himmels ist blau.           | The color of the sky is blue.            | வானத்தின் நிறம் நீலமாகும். (Vaanathin nirama neelamaagum.) |
 |                  | Objects of certain verbs                            | Er erinnert sich des Vorfalls.            | He remembers the incident.               | அவர் சம்பவத்தை நினைவில் கொள்ளுகிறார். (Avar sambavathai ninaivil kollugiraar.) |
 
-#### 3. Exceptional Scenarios
+#### 3. Using Akkusativ, Dativ, and Genitiv
+
+| **Case**         | **Usage**                                           | **Prepositions**                                                             | **Example**                                                        |
+|------------------|-----------------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Akkusativ**    | Direct Object (who/what is directly affected)       | durch, für, gegen, ohne, um                                                 | Ich sehe den Hund. (I see the dog.)                                |
+|                  | Movement towards something                          | bis, entlang, um, gegen                                                     | Er geht in die Stadt. (He goes into the city.)                      |
+| **Dativ**        | Indirect Object (to/for whom action is done)        | aus, bei, mit, nach, seit, von, zu                                          | Ich gebe dem Kind das Buch. (I give the child the book.)            |
+|                  | Location (where something is)                       | an, auf, hinter, in, neben, über, unter,
+
+
+#### 4. Exceptional Scenarios
 
 - **Usage of Genitive**: The genitive case is becoming less common in spoken German, often replaced by the dative case with prepositions.
   - **Example**: Wegen des Regens (Genitive) → Wegen dem Regen (Dative)
@@ -71,7 +81,7 @@
 - **Fixed Expressions**: Some fixed expressions may use cases that seem irregular.
   - **Example**: "Es tut mir leid" (I'm sorry) uses dative pronoun "mir" instead of the expected accusative "mich."
 
-#### 4. Main Rules for Dative Use Case and Learning Tips
+#### 5. Main Rules for Dative Use Case and Learning Tips
 
 - **Rule**: Use the dative case for indirect objects, certain prepositions, specific verbs, dative pronouns, and locations.
 - **Learning Tips**:
@@ -80,7 +90,7 @@
   - Understand the difference between direct and indirect objects.
   - Create example sentences and practice regularly.
 
-#### 5. Practice Sentences
+#### 6. Practice Sentences
 
 | **English**                               | **German**                             |
 |-------------------------------------------|----------------------------------------|
@@ -101,12 +111,19 @@
 | The cat is lying under the table.         | Die Katze liegt unter dem Tisch.       |
 | We are meeting with our friends.          | Wir treffen uns mit unseren Freunden.  |
 | The teacher gives the students homework.  | Der Lehrer gibt den Schülern Hausaufgaben. |
-| I am giving the child a toy.              |
-
- Ich gebe dem Kind ein Spielzeug.       |
+| I am giving the child a toy.              | Ich gebe dem Kind ein Spielzeug.       |
 | He tells his story to the audience.       | Er erzählt dem Publikum seine Geschichte. |
 | She buys her daughter a book.             | Sie kauft ihrer Tochter ein Buch.      |
 
 #### Conclusion
 
 By understanding the use cases, practicing with real-life examples, and consistently applying these rules in your sentences, you'll be able to master the dative case in German. Regular practice, use of flashcards, and immersion through conversations will help solidify your understanding.
+
+
+
+
+
+
+
+
+
