@@ -275,18 +275,39 @@ Here is a table with examples for each case and complexity level.
 ### Summary of Sentence Structures with Konjunktiv II
 
 #### Hauptsatz (Main Clause)
-- **Present**: Subject + Konjunktiv II Verb + Object + Adjective/Adverb
-- **Past**: Subject + hätte/wäre + Past Participle + Object + Adjective/Adverb
-- **Imperfect**: Subject + würde + Infinitive Verb + Object + Adjective/Adverb
+
+1. **Present Tense**
+   - **Structure**: Subject (S) + Konjunktiv II Verb (V-KII) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep) + Infinitive (V-inf)
+   - **Example**: Ich würde ein schönes Auto kaufen. (I would buy a nice car.)
+   - **Formula**: S + V-KII + O + Adj + Adv + Pro + Prep + V-inf
+
+2. **Past Tense**
+   - **Structure**: Subject (S) + hätte/wäre (V-KII) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep) + Participle II (Part II)
+   - **Example**: Ich hätte ein schönes Auto gekauft. (I would have bought a nice car.)
+   - **Formula**: S + V-KII + O + Adj + Adv + Pro + Prep + Part II
+
+3. **Imperfect Tense**
+   - **Structure**: Subject (S) + Konjunktiv II Verb (V-KII) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep)
+   - **Example**: Ich würde ein schönes Auto kaufen, wenn ich mehr Geld hätte. (I would buy a nice car if I had more money.)
+   - **Formula**: S + V-KII + O + Adj + Adv + Pro + Prep + V-inf
 
 #### Nebensatz (Subordinate Clause)
-- **Present**: Conjunction + Subject + Object + Adjective/Adverb + Konjunktiv II Verb
-- **Past**: Conjunction + Subject + Object + Adjective/Adverb + hätte/wäre + Past Participle
-- **Imperfect**: Conjunction + Subject + Object + Adjective/Adverb + würde + Infinitive Verb
 
-These guidelines and examples should help you understand the use of "gern/gerne," past participles, and adjective endings in various contexts, as well as forming sentences with Konjunktiv II in both main and subordinate clauses.
+1. **Present Tense**
+   - **Structure**: Conjunction (Conj) + Subject (S) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep) + Konjunktiv II Verb (V-KII)
+   - **Example**: Wenn ich mehr Geld hätte, würde ich ein schönes Auto kaufen. (If I had more money, I would buy a nice car.)
+   - **Formula**: Conj + S + O + Adj + Adv + Pro + Prep + V-KII
 
-Sure, here are 40 more examples, ensuring all elements are mentioned:
+2. **Past Tense**
+   - **Structure**: Conjunction (Conj) + Subject (S) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep) + hätte/wäre (V-KII) + Participle II (Part II)
+   - **Example**: Wenn ich mehr Geld gehabt hätte, hätte ich ein schönes Auto gekauft. (If I had had more money, I would have bought a nice car.)
+   - **Formula**: Conj + S + O + Adj + Adv + Pro + Prep + V-KII + Part II
+
+3. **Imperfect Tense**
+   - **Structure**: Conjunction (Conj) + Subject (S) + Object (O) + Adjective (Adj) + Adverb (Adv) + Pronoun (Pro) + Preposition (Prep) + Konjunktiv II Verb (V-KII) + Infinitive (V-inf)
+   - **Example**: Wenn ich reich wäre, würde ich ein großes Haus besitzen. (If I were rich, I would own a big house.)
+   - **Formula**: Conj + S + O + Adj + Adv + Pro + Prep + V-KII + V-inf
+
 
 | Complexity | English Sentence | German Present | Hauptsatz Structure (Present) | English Past | German Past | Hauptsatz Structure (Past) | English Imperfect | German Imperfect | Hauptsatz Structure (Imperfect) | Accusative/Dative | Comments |
 |------------|------------------|----------------|------------------------------|--------------|-------------|---------------------------|-------------------|------------------|------------------------------|------------------|----------|
@@ -333,3 +354,92 @@ Sure, here are 40 more examples, ensuring all elements are mentioned:
 | Basic | You (singular) would cook dinner. | Du würdest Abendessen kochen. | S + würdest (V-KII) + DO (Acc) + InfV | You had cooked dinner. | Du hättest Abendessen gekocht. | S + hättest (V-KII) + DO (Acc) + Past Part. | You would have cooked dinner. | Du würdest Abendessen gekocht haben. | S + würdest (V-KII) + DO (Acc) + Past Part. + haben | Accusative | "Abendessen" as direct object in Accusative |
 
 The table now includes translations, sentence structure breakdowns, example sentences for past indicative and past perfect subjunctive, and notes on the usage of accusative or dative cases where appropriate.
+
+
+### Complex examples:
+### Example Sentence Elements
+- **Subject (S)**: Er (he)
+- **Verb (V-KII)**: würde (would)
+- **Infinitive Verb (V-inf)**: geben (give)
+- **Direct Object (O, Acc)**: ein schönes Buch (a beautiful book)
+- **Indirect Object (O, Dat)**: ihr (her)
+- **Adjective (Adj)**: schönes (beautiful)
+- **Adverb (Adv)**: morgen (tomorrow)
+- **Pronoun (Pro)**: er (he)
+- **Preposition (Prep)**: wenn (if)
+
+### Table of Examples
+
+| Tense                | English Sentence                              | German Sentence                                                      | Sentence Structure                                                 |
+|----------------------|-----------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| **Present (Hauptsatz)**   | He would give her a beautiful book tomorrow. | Er würde ihr morgen ein schönes Buch geben.                           | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf                  |
+| **Past (Hauptsatz)**      | He would have given her a beautiful book.   | Er hätte ihr ein schönes Buch gegeben.                                | S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II                      |
+| **Imperfect (Hauptsatz)** | He would give her a beautiful book tomorrow if he had enough money. | Er würde ihr morgen ein schönes Buch geben, wenn er genug Geld hätte. | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf + Conj + S + O + V-KII |
+| **Present (Nebensatz)**   | If he had enough money, he would give her a beautiful book tomorrow. | Wenn er genug Geld hätte, würde er ihr morgen ein schönes Buch geben. | Conj + S + O (Acc) + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Past (Nebensatz)**      | If he had had enough money, he would have given her a beautiful book. | Wenn er genug Geld gehabt hätte, hätte er ihr ein schönes Buch gegeben. | Conj + S + O (Acc) + Part II + V-KII, S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II |
+| **Imperfect (Nebensatz)** | If he had enough money, he would give her a beautiful book tomorrow. | Wenn er genug Geld hätte, würde er ihr morgen ein schönes Buch geben. | Conj + S + O (Acc) + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Present (Hauptsatz)**   | I would buy her a beautiful book tomorrow.                                   | Ich würde ihr morgen ein schönes Buch kaufen.                                     | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf                |
+| **Past (Hauptsatz)**      | I would have bought her a beautiful book.                                    | Ich hätte ihr ein schönes Buch gekauft.                                           | S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II                    |
+| **Imperfect (Hauptsatz)** | I would buy her a beautiful book tomorrow if I had more money.               | Ich würde ihr morgen ein schönes Buch kaufen, wenn ich mehr Geld hätte.           | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf + Conj + S + O + V-KII |
+| **Present (Nebensatz)**   | If I had more money, I would buy her a beautiful book tomorrow.              | Wenn ich mehr Geld hätte, würde ich ihr morgen ein schönes Buch kaufen.           | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Past (Nebensatz)**      | If I had had more money, I would have bought her a beautiful book.           | Wenn ich mehr Geld gehabt hätte, hätte ich ihr ein schönes Buch gekauft.          | Conj + S + O + Part II + V-KII, S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II |
+| **Imperfect (Nebensatz)** | If I had more money, I would buy her a beautiful book tomorrow.              | Wenn ich mehr Geld hätte, würde ich ihr morgen ein schönes Buch kaufen.           | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Present (Hauptsatz)**   | You (sg.) would help your friend quickly.                                    | Du würdest deinem Freund schnell helfen.                                          | S + V-KII + IO (Dat) + Adv + DO (Acc) + V-inf                       |
+| **Past (Hauptsatz)**      | You (sg.) would have helped your friend quickly.                             | Du hättest deinem Freund schnell geholfen.                                        | S + V-KII + IO (Dat) + Adv + DO (Acc) + Part II                     |
+| **Imperfect (Hauptsatz)** | You (sg.) would help your friend quickly if you had more time.               | Du würdest deinem Freund schnell helfen, wenn du mehr Zeit hättest.               | S + V-KII + IO (Dat) + Adv + DO (Acc) + V-inf + Conj + S + O + V-KII |
+| **Present (Nebensatz)**   | If you had more time, you would help your friend quickly.                    | Wenn du mehr Zeit hättest, würdest du deinem Freund schnell helfen.               | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + V-inf |
+| **Past (Nebensatz)**      | If you had had more time, you would have helped your friend quickly.         | Wenn du mehr Zeit gehabt hättest, hättest du deinem Freund schnell geholfen.      | Conj + S + O + Part II + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Part II |
+| **Imperfect (Nebensatz)** | If you had more time, you would help your friend quickly.                    | Wenn du mehr Zeit hättest, würdest du deinem Freund schnell helfen.               | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + V-inf |
+| **Present (Hauptsatz)**   | She would write him a long letter tonight.                                   | Sie würde ihm heute Abend einen langen Brief schreiben.                          | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf                 |
+| **Past (Hauptsatz)**      | She would have written him a long letter.                                    | Sie hätte ihm einen langen Brief geschrieben.                                    | S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II                     |
+| **Imperfect (Hauptsatz)** | She would write him a long letter tonight if she had time.                   | Sie würde ihm heute Abend einen langen Brief schreiben, wenn sie Zeit hätte.      | S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf + Conj + S + O + V-KII |
+| **Present (Nebensatz)**   | If she had time, she would write him a long letter tonight.                  | Wenn sie Zeit hätte, würde sie ihm heute Abend einen langen Brief schreiben.      | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Past (Nebensatz)**      | If she had had time, she would have written him a long letter.               | Wenn sie Zeit gehabt hätte, hätte sie ihm einen langen Brief geschrieben.         | Conj + S + O + Part II + V-KII, S + V-KII + IO (Dat) + DO (Acc) + Adj + Part II |
+| **Imperfect (Nebensatz)** | If she had time, she would write him a long letter tonight.                  | Wenn sie Zeit hätte, würde sie ihm heute Abend einen langen Brief schreiben.      | Conj + S + O + V-KII, S + V-KII + IO (Dat) + Adv + DO (Acc) + Adj + V-inf |
+| **Present (Hauptsatz)**   | We would build a big house next year.                                         | Wir würden nächstes Jahr ein großes Haus bauen.                                  | S + V-KII + Adv + DO (Acc) + Adj + V-inf                             |
+| **Past (Hauptsatz)**      | We would have built a big house.                                              | Wir hätten ein großes Haus gebaut.                                               | S + V-KII + DO (Acc) + Adj + Part II                                 |
+| **Imperfect (Hauptsatz)** | We would build a big house next year if we had enough money.                  | Wir würden nächstes Jahr ein großes Haus bauen, wenn wir genug Geld hätten.       | S + V-KII + Adv + DO (Acc) + Adj + V-inf + Conj + S + O + V-KII      |
+| **Present (Nebensatz)**   | If we had enough money, we would build a big house next year.                 | Wenn wir genug Geld hätten, würden wir nächstes Jahr ein großes Haus bauen.       | Conj + S + O + V-KII, S + V-KII + Adv + DO (Acc) + Adj + V-inf       |
+| **Past (Nebensatz)**      | If we had had enough money, we would have built a big house.                  | Wenn wir genug Geld gehabt hätten, hätten wir ein großes Haus gebaut.             | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Adj + Part II |
+| **Imperfect (Nebensatz)** | If we had enough money, we would build a big house next year.                 | Wenn wir genug Geld hätten, würden wir nächstes Jahr ein großes Haus bauen.       | Conj + S + O + V-KII, S + V-KII + Adv + DO (Acc) + Adj + V-inf       |
+| **Present (Hauptsatz)**   | You (pl.) would organize a big party on the weekend.                          | Ihr würdet am Wochenende eine große Party organisieren.                          | S + V-KII + Adv + DO (Acc) + Adj + V-inf                             |
+| **Past (Hauptsatz)**      | You (pl.) would have organized a big party.                                    | Ihr hättet eine große Party organisiert.                                         | S + V-KII + DO (Acc) + Adj + Part II                                 |
+| **Imperfect (Hauptsatz)** | You (pl.) would organize a big party on the weekend if you had more time.     | Ihr würdet am Wochenende eine große Party organisieren, wenn ihr mehr Zeit hättet. | S + V-KII + Adv + DO (Acc) + Adj + V-inf + Conj + S + O + V-KII      |
+| **Present (Nebensatz)**   | If you (pl.) had more time, you would organize a big party on the weekend.    | Wenn ihr mehr Zeit hättet, würdet ihr am Wochenende eine große Party organisieren. | Conj + S + O + V-KII, S + V-KII + Adv + DO (Acc) + Adj + V-inf       |
+| **Past (Nebensatz)**      | If you (pl.) had had more time, you would have organized a big party.         | Wenn ihr mehr Zeit gehabt hättet, hättet ihr eine große Party organisiert.         | Conj + S +
+| **Present (Hauptsatz)**   | He would call his mother every Sunday.                                        | Er würde seine Mutter jeden Sonntag anrufen.                                     | S + V-KII + DO (Acc) + Adv + Pro + V-inf                            |
+| **Past (Hauptsatz)**      | He would have called his mother every Sunday.                                 | Er hätte seine Mutter jeden Sonntag angerufen.                                  | S + V-KII + DO (Acc) + Adv + Pro + Part II                          |
+| **Imperfect (Hauptsatz)** | He would call his mother every Sunday if he were not so busy.                 | Er würde seine Mutter jeden Sonntag anrufen, wenn er nicht so beschäftigt wäre. | S + V-KII + DO (Acc) + Adv + Pro + V-inf + Conj + S + O + V-KII     |
+| **Present (Nebensatz)**   | If he were not so busy, he would call his mother every Sunday.               | Wenn er nicht so beschäftigt wäre, würde er seine Mutter jeden Sonntag anrufen. | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + Pro + V-inf       |
+| **Past (Nebensatz)**      | If he had not been so busy, he would have called his mother every Sunday.    | Wenn er nicht so beschäftigt gewesen wäre, hätte er seine Mutter jeden Sonntag angerufen. | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Adv + Pro + Part II |
+| **Imperfect (Nebensatz)** | If he were not so busy, he would call his mother every Sunday.               | Wenn er nicht so beschäftigt wäre, würde er seine Mutter jeden Sonntag anrufen. | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + Pro + V-inf       |
+| **Present (Hauptsatz)**   | They would find the solution quickly if they worked together.                 | Sie würden die Lösung schnell finden, wenn sie zusammen arbeiten würden.         | S + V-KII + DO (Acc) + Adv + V-inf + Conj + S + O + V-KII           |
+| **Past (Hauptsatz)**      | They would have found the solution quickly if they had worked together.       | Sie hätten die Lösung schnell gefunden, wenn sie zusammen gearbeitet hätten.    | S + V-KII + DO (Acc) + Adv + Part II + Conj + S + O + V-KII          |
+| **Imperfect (Hauptsatz)** | They would find the solution quickly if they had worked together.             | Sie würden die Lösung schnell finden, wenn sie zusammen gearbeitet hätten.       | S + V-KII + DO (Acc) + Adv + V-inf + Conj + S + O + V-KII           |
+| **Present (Nebensatz)**   | If they worked together, they would find the solution quickly.                | Wenn sie zusammen arbeiten würden, würden sie die Lösung schnell finden.         | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf             |
+| **Past (Nebensatz)**      | If they had worked together, they would have found the solution quickly.      | Wenn sie zusammen gearbeitet hätten, hätten sie die Lösung schnell gefunden.     | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Adv + Part II |
+| **Imperfect (Nebensatz)** | If they worked together, they would find the solution quickly.                | Wenn sie zusammen arbeiten würden, würden sie die Lösung schnell finden.         | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf             |
+| **Present (Hauptsatz)**   | We would start the project next week.                                         | Wir würden das Projekt nächste Woche starten.                                    | S + V-KII + DO (Acc) + Adv + V-inf                                  |
+| **Past (Hauptsatz)**      | We would have started the project last week.                                  | Wir hätten das Projekt letzte Woche gestartet.                                  | S + V-KII + DO (Acc) + Part II                                      |
+| **Imperfect (Hauptsatz)** | We would start the project next week if we had more resources.                | Wir würden das Projekt nächste Woche starten, wenn wir mehr Ressourcen hätten.   | S + V-KII + DO (Acc) + Adv + V-inf + Conj + S + O + V-KII          |
+| **Present (Nebensatz)**   | If we had more resources, we would start the project next week.               | Wenn wir mehr Ressourcen hätten, würden wir das Projekt nächste Woche starten.   | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf            |
+| **Past (Nebensatz)**      | If we had had more resources, we would have started the project last week.    | Wenn wir mehr Ressourcen gehabt hätten, hätten wir das Projekt letzte Woche gestartet. | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Part II |
+| **Imperfect (Nebensatz)** | If we had more resources, we would start the project next week.               | Wenn wir mehr Ressourcen hätten, würden wir das Projekt nächste Woche starten.   | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf            |
+| **Present (Hauptsatz)**   | I would visit the museum if I had time.                                        | Ich würde das Museum besuchen, wenn ich Zeit hätte.                              | S + V-KII + DO (Acc) + Conj + S + O + V-KII                         |
+| **Past (Hauptsatz)**      | I would have visited the museum if I had had time.                             | Ich hätte das Museum besucht, wenn ich Zeit gehabt hätte.                        | S + V-KII + DO (Acc) + Part II + Conj + S + O + V-KII              |
+| **Imperfect (Hauptsatz)** | I would visit the museum next weekend if I had time.                           | Ich würde das Museum nächstes Wochenende besuchen, wenn ich Zeit hätte.          | S + V-KII + DO (Acc) + Adv + Conj + S + O + V-KII                   |
+| **Present (Nebensatz)**   | If I had time, I would visit the museum.                                       | Wenn ich Zeit hätte, würde ich das Museum besuchen.                              | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
+| **Past (Nebensatz)**      | If I had had time, I would have visited the museum.                            | Wenn ich Zeit gehabt hätte, hätte ich das Museum besucht.                        | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Part II     |
+| **Imperfect (Nebensatz)** | If I had time, I would visit the museum next weekend.                          | Wenn ich Zeit hätte, würde ich das Museum nächstes Wochenende besuchen.          | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
+| **Present (Hauptsatz)**   | She would answer the phone if she were here.                                   | Sie würde das Telefon beantworten, wenn sie hier wäre.                            | S + V-KII + DO (Acc) + Conj + S + O + V-KII                         |
+| **Past (Hauptsatz)**      | She would have answered the phone if she had been here.                        | Sie hätte das Telefon beantwortet, wenn sie hier gewesen wäre.                   | S + V-KII + DO (Acc) + Part II + Conj + S + O + V-KII              |
+| **Imperfect (Hauptsatz)** | She would answer the phone if she were here next week.                        | Sie würde das Telefon nächste Woche beantworten, wenn sie hier wäre.              | S + V-KII + DO (Acc) + Adv + Conj + S + O + V-KII                  |
+| **Present (Nebensatz)**   | If she were here, she would answer the phone.                                  | Wenn sie hier wäre, würde sie das Telefon beantworten.                            | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
+| **Past (Nebensatz)**      | If she had been here, she would have answered the phone.                       | Wenn sie hier gewesen wäre, hätte sie das Telefon beantwortet.                   | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Part II     |
+| **Imperfect (Nebensatz)** | If she were here, she would answer the phone next week.                        | Wenn sie hier wäre, würde sie das Telefon nächste Woche beantworten.             | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
+| **Present (Hauptsatz)**   | They would cook dinner if they had the ingredients.                            | Sie würden das Abendessen kochen, wenn sie die Zutaten hätten.                    | S + V-KII + DO (Acc) + Conj + S + O + V-KII                         |
+| **Past (Hauptsatz)**      | They would have cooked dinner if they had had the ingredients.                 | Sie hätten das Abendessen gekocht, wenn sie die Zutaten gehabt hätten.           | S + V-KII + DO (Acc) + Part II + Conj + S + O + V-KII              |
+| **Imperfect (Hauptsatz)** | They would cook dinner next week if they had the ingredients.                  | Sie würden nächste Woche das Abendessen kochen, wenn sie die Zutaten hätten.     | S + V-KII + DO (Acc) + Adv + Conj + S + O + V-KII                  |
+| **Present (Nebensatz)**   | If they had the ingredients, they would cook dinner.                           | Wenn sie die Zutaten hätten, würden sie das Abendessen kochen.                    | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
+| **Past (Nebensatz)**      | If they had had the ingredients, they would have cooked dinner.                | Wenn sie die Zutaten gehabt hätten, hätten sie das Abendessen gekocht.            | Conj + S + O + Part II + V-KII, S + V-KII + DO (Acc) + Part II     |
+| **Imperfect (Nebensatz)** | If they had the ingredients, they would cook dinner next week.                 | Wenn sie die Zutaten hätten, würden sie nächste Woche das Abendessen kochen.      | Conj + S + O + V-KII, S + V-KII + DO (Acc) + Adv + V-inf           |
