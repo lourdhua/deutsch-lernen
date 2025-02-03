@@ -13,7 +13,7 @@
 | Welcher    | Which            |
 | Wessen      | Whose           |
 
-### Sentence Structure
+### Sentence Structure (Satzbau)
 
 In German, the typical sentence structure follows the **SVO (Subject-Verb-Object)** order, but when forming questions with W-Fragen, the structure changes slightly. Here’s a basic layout:
 
